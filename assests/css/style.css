@@ -1,0 +1,63 @@
+body {
+    background-color: black;
+    text-transform: uppercase;
+  }
+  
+  .square {
+    width: 30%;
+    background: white;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.66%;
+    border-radius: 10%;
+  }
+  
+  #container {
+    margin: 20px auto;
+    max-width: 600px;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+    background-color: cornflowerblue;
+    margin: 0;
+    padding: 20px 0;
+  }
+  
+  #bg {
+    background: white;
+    height: 30px;
+    text-align: center;
+    color: cornflowerblue;
+  }
+  
+  .selected {
+    color: white;
+    background: cornflowerblue;
+  }
+  
+  #rgbCode {
+    font-size: 5rem;
+  }
+  
+  button {
+    border: none;
+    text-transform: uppercase;
+    height: 100%;
+    color: cornflowerblue;
+    letter-spacing: 1px;
+    font-weight: bolder;
+
+  }
+  
+  button:hover{
+    color: white;
+    background: cornflowerblue;
+  }
+  
+  #message{
+    display: inline-block;
+    width: 20%;
+  }
+  
